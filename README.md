@@ -1,6 +1,8 @@
 # An Eye for the Sky
 A 2d bullet hell wave survival game inspired by cuphead's airplane levels (made for the mini jam 169)
 
+Play the Game: https://themkdev.itch.io/an-eye-for-the-sky
+
 ## Controls
 
 wasd or arrow keys to move
